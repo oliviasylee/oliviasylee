@@ -1,5 +1,5 @@
 ### About me:
-- :woman_technologist: I am a Full Stack Web Developer from Atlanta, GA.
+- 💻 I am a Full Stack Web Developer from Atlanta, GA.
 
 
 ### Tools & Technology:
