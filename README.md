@@ -1,5 +1,5 @@
 ### About Me:
-- 💻 I am a Full Stack Web Developer based in Atlanta, GA.
+- 💻 I am an aspiring full Stack Web Developer based in Atlanta, GA.
 - ✏️ Loving a unique combination of creativity, collaboration, and strategy in design and programming solutions.
 - ❤️‍🔥 Passionate about both the process and the outcome of projects.
 
