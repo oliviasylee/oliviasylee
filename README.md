@@ -1,6 +1,6 @@
 ### About Me:
 - 💻 I’m an aspiring Atlanta-based full-stack developer.
-- ✏️ I have a creative, collaborative, and strategic approach to designing and programming solutions
+- ✏️ I have a creative, collaborative, and strategic approach to designing and programming solutions.
 - ❤️‍🔥 I enjoy the process of creating just as much as the end result.
 
 ### Tools & Technology:
