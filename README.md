@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=oliviasylee&color=lightgrey&style=for-the-badge)
 ### About Me:
 - 💻 I’m an aspiring Atlanta-based full-stack developer.
 - ✏️ I have a creative, collaborative, and strategic approach to designing and programming solutions.
