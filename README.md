@@ -16,5 +16,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliviasylee&layout=compact)](https://github.com/oliviasylee/github-readme-stats)
 </div>
 
-### My stats: </br>
+### My stats </br>
 ![Olivia's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliviasylee&theme=solarized-light&show_icons=true)
