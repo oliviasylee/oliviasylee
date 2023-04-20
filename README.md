@@ -2,7 +2,7 @@
   <p align="center">
     <samp>
 👋 Hello there, I’m Olivia!  </br>
-🍑 Based in Atlanta, GA  </br>
+🍑 Based in Atlanta, GA.  </br>
 🔥 Enjoy learning new things and constantly strive to grow!  </br>
 📧 oliviasylee@gmail.com </br>
 🎨 Portfolio: https://olivialee.dev/ </br>
